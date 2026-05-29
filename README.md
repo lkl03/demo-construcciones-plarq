@@ -1,2 +1,7 @@
-# demo-construcciones-plarq
-Demo web para Construcciones Plarq — diseñada por eterlab.
+# Construcciones Plarq
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
